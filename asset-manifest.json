@@ -1,14 +1,15 @@
 {
   "files": {
     "main.css": "/xseedapp/static/css/main.272a4975.css",
-    "main.js": "/xseedapp/static/js/main.6af78904.js",
+    "main.js": "/xseedapp/static/js/main.455a94e3.js",
+    "static/media/solar_system.mp4": "/xseedapp/static/media/solar_system.583317def5b5b9b6cfb7.mp4",
     "static/media/logo.svg": "/xseedapp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/xseedapp/index.html",
     "main.272a4975.css.map": "/xseedapp/static/css/main.272a4975.css.map",
-    "main.6af78904.js.map": "/xseedapp/static/js/main.6af78904.js.map"
+    "main.455a94e3.js.map": "/xseedapp/static/js/main.455a94e3.js.map"
   },
   "entrypoints": [
     "static/css/main.272a4975.css",
-    "static/js/main.6af78904.js"
+    "static/js/main.455a94e3.js"
   ]
 }
