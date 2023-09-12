@@ -1,16 +1,14 @@
 {
   "files": {
-    "main.css": "/xseedapp/static/css/main.073c9b0a.css",
-    "main.js": "/xseedapp/static/js/main.3150ca62.js",
-    "static/js/787.c79c3f3d.chunk.js": "/xseedapp/static/js/787.c79c3f3d.chunk.js",
+    "main.css": "/xseedapp/static/css/main.5f147416.css",
+    "main.js": "/xseedapp/static/js/main.1c8060d3.js",
     "static/media/logo.svg": "/xseedapp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/xseedapp/index.html",
-    "main.073c9b0a.css.map": "/xseedapp/static/css/main.073c9b0a.css.map",
-    "main.3150ca62.js.map": "/xseedapp/static/js/main.3150ca62.js.map",
-    "787.c79c3f3d.chunk.js.map": "/xseedapp/static/js/787.c79c3f3d.chunk.js.map"
+    "main.5f147416.css.map": "/xseedapp/static/css/main.5f147416.css.map",
+    "main.1c8060d3.js.map": "/xseedapp/static/js/main.1c8060d3.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.3150ca62.js"
+    "static/css/main.5f147416.css",
+    "static/js/main.1c8060d3.js"
   ]
 }
