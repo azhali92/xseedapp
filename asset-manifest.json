@@ -1,18 +1,23 @@
 {
   "files": {
     "main.css": "/xseedapp/static/css/main.272a4975.css",
-    "main.js": "/xseedapp/static/js/main.51df74b8.js",
+    "main.js": "/xseedapp/static/js/main.7bd414ff.js",
+    "static/media/thesun.mp4": "/xseedapp/static/media/thesun.3f8f1cb3eab176322def.mp4",
     "static/media/solar_system.mp4": "/xseedapp/static/media/solar_system.583317def5b5b9b6cfb7.mp4",
+    "static/media/Solar-system.png": "/xseedapp/static/media/Solar-system.6167630dfd6daac0daaf.png",
+    "static/media/moon.jpg": "/xseedapp/static/media/moon.dbcb8d897d23b5be703a.jpg",
+    "static/media/earth.webp": "/xseedapp/static/media/earth.4d3ca59390a9438ee4b5.webp",
     "static/media/nodata.jpg": "/xseedapp/static/media/nodata.cdb208765524798dd487.jpg",
     "static/media/completedchapter.png": "/xseedapp/static/media/completedchapter.4abe96742c58d9f35615.png",
+    "static/media/wrong.png": "/xseedapp/static/media/wrong.90a049614832cde22660.png",
     "static/media/comingsoon.png": "/xseedapp/static/media/comingsoon.4bded5d62701336f5b85.png",
     "static/media/logo.svg": "/xseedapp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/xseedapp/index.html",
     "main.272a4975.css.map": "/xseedapp/static/css/main.272a4975.css.map",
-    "main.51df74b8.js.map": "/xseedapp/static/js/main.51df74b8.js.map"
+    "main.7bd414ff.js.map": "/xseedapp/static/js/main.7bd414ff.js.map"
   },
   "entrypoints": [
     "static/css/main.272a4975.css",
-    "static/js/main.51df74b8.js"
+    "static/js/main.7bd414ff.js"
   ]
 }
